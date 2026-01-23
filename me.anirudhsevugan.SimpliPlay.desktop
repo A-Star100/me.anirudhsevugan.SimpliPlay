@@ -11,5 +11,5 @@ GenericName=Media Player
 Exec="/app/bin/run.sh"
 Terminal=false
 Type=Application
-Icon=org.anirudhsevugan.SimpliPlay
+Icon=me.anirudhsevugan.SimpliPlay
 Categories=AudioVideo;Network;Player;Media;
